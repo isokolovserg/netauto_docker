@@ -2,7 +2,6 @@ ansible
 netmiko
 napalm
 nornir
-nmap
 ipaddr
 scrapli
 scapli-community
