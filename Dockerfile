@@ -1,5 +1,5 @@
 #Use an official Python runtime as a parent image
-FROM library/python
+FROM python
 
 #Set the working dir to /install
 WORKDIR /install
