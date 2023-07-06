@@ -4,4 +4,4 @@ napalm
 nornir
 ipaddr
 scrapli
-scapli-community
+scrapli-community
